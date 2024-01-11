@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\bin\Debug\dugunSalonu.exe.config
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\bin\Debug\dugunSalonu.exe
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\bin\Debug\dugunSalonu.pdb
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.Booking.resources
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.MainForm.resources
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.Properties.Resources.resources
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.exe
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.pdb
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.ViewBooking.resources
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.Customer.resources
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.Staff.resources
+C:\Users\HP\source\repos\dugunSalonu\dugunSalonu\obj\Debug\dugunSalonu.Login.resources
